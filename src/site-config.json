@@ -1,0 +1,548 @@
+{
+  "business": {
+    "name": "The Small World Tree Company",
+    "phone": "+14154550909",
+    "category": "tree service",
+    "city": "San Francisco",
+    "state": "CA"
+  },
+  "design": {
+    "preset": {
+      "id": "tree-service-mountain-bold",
+      "categoryGroup": "tree-service",
+      "name": "Mountain Bold",
+      "recipeFile": "tree-service/mountain-bold.astro",
+      "colors": {
+        "primary": "#052E16",
+        "primaryDark": "#04200f",
+        "primaryLight": "#c1cbc5",
+        "secondary": "#166534",
+        "accent": "#84CC16",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#052E16",
+        "surface": "#F0F4F7",
+        "text": "#0F172A",
+        "textLight": "#64748B",
+        "textOnDark": "#FFFFFF",
+        "border": "#D1D5DB"
+      },
+      "typography": {
+        "headingFont": "Plus Jakarta Sans",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "8px",
+        "buttonRadius": "8px",
+        "cardRadius": "12px",
+        "shadowStyle": "medium"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "tree-service/mountain-bold"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "San Francisco's Trusted Tree Experts",
+      "heroSubline": "Protecting your trees and property with expert care. Serving the Bay Area for over a decade.",
+      "aboutTitle": "About The Small World Tree Company",
+      "aboutText": [
+        "The Small World Tree Company started with a simple vision: to provide exceptional tree care while fostering a deep appreciation for the urban forest in San Francisco. Founded by a certified arborist with a passion for preserving the health and beauty of trees, we've grown from a small team to a dedicated crew serving the entire Bay Area.",
+        "We believe in a holistic approach to tree care, considering the individual needs of each tree and its surrounding environment. Our team is committed to using sustainable practices and the latest techniques to ensure the long-term health and vitality of your trees. We prioritize safety, efficiency, and clear communication on every project, large or small.",
+        "We are deeply invested in the San Francisco community. We regularly volunteer our time and expertise to local parks and organizations, promoting tree planting and education. We are licensed, insured, and dedicated to providing reliable and responsible tree services that enhance the beauty and sustainability of our city."
+      ],
+      "valueProps": [
+        {
+          "title": "Certified Arborists",
+          "description": "Our team includes certified arborists with extensive knowledge of tree biology and care."
+        },
+        {
+          "title": "Safety First",
+          "description": "We prioritize safety in every aspect of our work, protecting your property and our team."
+        },
+        {
+          "title": "Sustainable Practices",
+          "description": "We use environmentally friendly techniques and equipment to minimize our impact."
+        },
+        {
+          "title": "Comprehensive Services",
+          "description": "From pruning to removal, we offer a full range of tree care services to meet your needs."
+        }
+      ],
+      "ctaHeadline": "Get a Free Tree Service Estimate",
+      "ctaSubline": "Contact us today to discuss your tree care needs and receive a personalized quote."
+    },
+    "services": [
+      {
+        "slug": "tree-pruning",
+        "name": "Tree Pruning",
+        "shortDescription": "Enhance the health, beauty, and safety of your trees with professional pruning services.",
+        "description": "Proper tree pruning is essential for maintaining the health, structure, and appearance of your trees. Our certified arborists use industry-standard techniques to remove dead, diseased, or damaged branches, improve air circulation and sunlight penetration, and promote healthy growth. We tailor our pruning approach to the specific needs of each tree, considering its species, age, and overall condition.\n\nWhether you need routine maintenance pruning, structural pruning to improve stability, or crown reduction to manage size, we have the expertise to deliver exceptional results. We also offer specialized pruning services for fruit trees to maximize fruit production. Our team is trained to identify potential hazards and structural weaknesses, ensuring the safety of your property and loved ones.\n\nWe understand the unique challenges of pruning trees in San Francisco's urban environment, including limited space and proximity to buildings and power lines. We take extra precautions to protect your property and minimize disruption to your neighbors. With our professional tree pruning services, you can enjoy healthy, beautiful trees that enhance the value and enjoyment of your property.",
+        "process": [
+          "Step 1: On-site assessment to evaluate the tree's health and structure.",
+          "Step 2: Develop a customized pruning plan based on your tree's needs and your goals.",
+          "Step 3: Carefully prune the tree using industry-standard techniques.",
+          "Step 4: Clean up all debris and leave your property tidy."
+        ],
+        "benefits": [
+          "Improved tree health",
+          "Enhanced aesthetics",
+          "Increased safety",
+          "Promoted growth"
+        ],
+        "faq": [
+          {
+            "question": "How often should I prune my trees?",
+            "answer": "The frequency of pruning depends on the species, age, and condition of your trees. Generally, young trees should be pruned every 2-3 years, while mature trees can be pruned every 3-5 years."
+          },
+          {
+            "question": "What is the best time of year to prune trees in San Francisco?",
+            "answer": "The best time to prune most trees in San Francisco is during the dormant season, typically late fall or early winter. However, certain species may benefit from pruning at other times of the year."
+          },
+          {
+            "question": "Can I prune my trees myself?",
+            "answer": "While you can prune small branches, it's best to hire a professional arborist for larger or more complex pruning tasks. Improper pruning can damage your trees and create safety hazards."
+          }
+        ]
+      },
+      {
+        "slug": "tree-removal",
+        "name": "Tree Removal",
+        "shortDescription": "Safely and efficiently remove trees that are hazardous, diseased, or unwanted.",
+        "description": "Tree removal is a complex and potentially dangerous task that should only be performed by experienced professionals. At The Small World Tree Company, we have the expertise, equipment, and training to safely and efficiently remove trees of any size and in any location. Whether you have a hazardous tree threatening your property, a diseased tree that needs to be removed to prevent the spread of infection, or an unwanted tree that is blocking your view or interfering with construction, we can help.\n\nWe understand the importance of minimizing disruption to your property and neighbors during tree removal. We use specialized equipment, such as cranes and aerial lifts, to carefully dismantle trees and remove them from your property with minimal impact. We also take extra precautions to protect underground utilities and other sensitive infrastructure.\n\nBefore removing any tree, we will assess its condition and explore all possible alternatives, such as pruning or cabling. However, if removal is the only option, we will obtain all necessary permits and ensure that the work is performed in compliance with local regulations. We are committed to responsible tree removal practices and will always prioritize the safety of your property, our team, and the environment.",
+        "process": [
+          "Step 1: Obtain necessary permits and approvals.",
+          "Step 2: Carefully assess the tree and surrounding area to identify potential hazards.",
+          "Step 3: Use specialized equipment to safely dismantle the tree.",
+          "Step 4: Remove all debris and grind the stump, if desired."
+        ],
+        "benefits": [
+          "Eliminated hazards",
+          "Prevented disease spread",
+          "Freed up space",
+          "Improved views"
+        ],
+        "faq": [
+          {
+            "question": "Do I need a permit to remove a tree in San Francisco?",
+            "answer": "Yes, in most cases, you need a permit to remove a tree in San Francisco. We can help you navigate the permit process and ensure that all necessary approvals are obtained."
+          },
+          {
+            "question": "How much does tree removal cost?",
+            "answer": "The cost of tree removal depends on several factors, including the size and location of the tree, the complexity of the removal, and the disposal costs. We offer free estimates to provide you with an accurate quote."
+          },
+          {
+            "question": "What happens to the wood after the tree is removed?",
+            "answer": "We can either haul the wood away for disposal or leave it on your property for firewood or other uses. We also offer stump grinding services to remove the remaining stump."
+          }
+        ]
+      },
+      {
+        "slug": "stump-grinding",
+        "name": "Stump Grinding",
+        "shortDescription": "Remove unsightly tree stumps and reclaim your yard with our professional stump grinding services.",
+        "description": "After a tree is removed, the remaining stump can be an eyesore and a potential hazard. Stump grinding is the most effective way to remove these unwanted remnants, allowing you to reclaim your yard and prepare it for new landscaping or construction. At The Small World Tree Company, we use powerful stump grinders to efficiently grind stumps below the surface of the ground, eliminating them completely.\n\nOur experienced operators can grind stumps of any size and in any location, even in tight spaces or on sloped terrain. We take precautions to protect surrounding vegetation and structures, and we always clean up the debris after the grinding is complete. Stump grinding not only improves the appearance of your property but also eliminates potential tripping hazards and prevents the growth of unwanted sprouts.\n\nWe offer a variety of stump grinding options to meet your specific needs, including complete stump removal, surface grinding, and root chasing. We can also provide soil amendments to improve drainage and promote healthy plant growth in the area where the stump was removed. With our professional stump grinding services, you can transform your yard into a beautiful and functional space.",
+        "process": [
+          "Step 1: Evaluate the stump and surrounding area.",
+          "Step 2: Grind the stump below the surface of the ground using a specialized stump grinder.",
+          "Step 3: Remove the debris and fill the hole with soil.",
+          "Step 4: Clean up the area and leave your property tidy."
+        ],
+        "benefits": [
+          "Improved aesthetics",
+          "Eliminated hazards",
+          "Prevented regrowth",
+          "Reclaimed yard space"
+        ],
+        "faq": [
+          {
+            "question": "How deep do you grind the stump?",
+            "answer": "We typically grind the stump 6-12 inches below the surface of the ground, but we can grind deeper if needed for specific landscaping projects."
+          },
+          {
+            "question": "What happens to the wood chips after stump grinding?",
+            "answer": "We can either leave the wood chips on your property for mulch or haul them away for disposal. They make excellent ground cover for flower beds and gardens."
+          },
+          {
+            "question": "Will stump grinding damage my lawn?",
+            "answer": "We take precautions to minimize damage to your lawn, but some minor disturbance is unavoidable. We can reseed or repair any damaged areas as needed."
+          }
+        ]
+      },
+      {
+        "slug": "tree-planting",
+        "name": "Tree Planting",
+        "shortDescription": "Enhance your property and the environment with our professional tree planting services.",
+        "description": "Planting new trees is a great way to enhance the beauty and value of your property, provide shade and privacy, and contribute to a healthier environment. At The Small World Tree Company, we offer professional tree planting services to help you select the right trees for your landscape and ensure that they are planted properly for optimal growth. We can assist you with choosing the right species, size, and location for your new trees, considering factors such as soil type, sunlight exposure, and drainage.\n\nWe source our trees from reputable nurseries and ensure that they are healthy and disease-free. Our experienced planting crew will carefully prepare the planting site, dig the hole to the proper depth and width, and amend the soil with organic matter to promote root growth. We also provide staking and watering as needed to help your new trees establish themselves.\n\nWe are committed to sustainable tree planting practices and will always recommend trees that are well-suited to the San Francisco climate and environment. We can also provide ongoing care and maintenance services to ensure that your new trees thrive for years to come.",
+        "process": [
+          "Step 1: Consultation to select the right trees for your landscape.",
+          "Step 2: Prepare the planting site and amend the soil.",
+          "Step 3: Carefully plant the new trees and provide staking and watering.",
+          "Step 4: Provide ongoing care and maintenance recommendations."
+        ],
+        "benefits": [
+          "Enhanced property value",
+          "Increased shade and privacy",
+          "Improved air quality",
+          "Environmental benefits"
+        ],
+        "faq": [
+          {
+            "question": "What types of trees are best suited for San Francisco?",
+            "answer": "Some popular tree species for San Francisco include California buckeye, coast live oak, Monterey cypress, and various fruit trees."
+          },
+          {
+            "question": "How close to my house can I plant a tree?",
+            "answer": "The distance depends on the mature size of the tree. We can help you determine the appropriate spacing to avoid potential problems with roots and branches."
+          },
+          {
+            "question": "How do I care for my newly planted trees?",
+            "answer": "Water your new trees regularly, especially during dry periods. Mulch around the base of the trees to retain moisture and suppress weeds. Protect the trees from pests and diseases."
+          }
+        ]
+      },
+      {
+        "slug": "emergency-tree-service",
+        "name": "Emergency Tree Service",
+        "shortDescription": "24/7 emergency tree services for storm damage, fallen trees, and other urgent situations.",
+        "description": "When a tree emergency strikes, you need a reliable and responsive team to quickly assess the situation and take action to protect your property and safety. The Small World Tree Company offers 24/7 emergency tree services to address storm damage, fallen trees, and other urgent situations. Our experienced crew is equipped to handle any tree emergency, from removing hazardous branches to clearing debris and restoring access to your property.\n\nWe understand the stress and anxiety that can accompany a tree emergency, and we are committed to providing prompt and professional service to minimize the impact on your life. We work closely with insurance companies to ensure that your claim is processed smoothly and efficiently. Our emergency services include tree removal, branch removal, debris cleanup, and temporary shoring to stabilize damaged trees.\n\nDon't wait until it's too late. If you have a tree emergency, call The Small World Tree Company immediately. We are here to help you get back on your feet and restore your property to its pre-emergency condition.",
+        "process": [
+          "Step 1: Immediate response to your emergency call.",
+          "Step 2: Rapid assessment of the situation and development of a plan of action.",
+          "Step 3: Safe and efficient removal of hazardous trees and branches.",
+          "Step 4: Debris cleanup and property restoration."
+        ],
+        "benefits": [
+          "24/7 availability",
+          "Rapid response",
+          "Safety and security",
+          "Peace of mind"
+        ],
+        "faq": [
+          {
+            "question": "What constitutes a tree emergency?",
+            "answer": "A tree emergency is any situation where a tree poses an immediate threat to your property or safety, such as a fallen tree blocking a driveway or a large branch hanging precariously over your house."
+          },
+          {
+            "question": "What should I do if a tree falls on my house?",
+            "answer": "Call 911 if there is a risk of injury. Then, contact your insurance company and The Small World Tree Company to assess the damage and remove the tree."
+          },
+          {
+            "question": "How quickly can you respond to a tree emergency?",
+            "answer": "We strive to respond to tree emergencies as quickly as possible, typically within a few hours, depending on the severity of the situation and our current workload."
+          }
+        ]
+      },
+      {
+        "slug": "tree-risk-assessment",
+        "name": "Tree Risk Assessment",
+        "shortDescription": "Identify potential hazards and protect your property with our comprehensive tree risk assessment services.",
+        "description": "Understanding the potential risks associated with your trees is crucial for protecting your property, ensuring safety, and preventing costly damage. The Small World Tree Company offers comprehensive tree risk assessment services to identify potential hazards and provide recommendations for mitigating those risks. Our certified arborists will conduct a thorough inspection of your trees, evaluating their health, structure, and environment to identify any potential weaknesses or defects.\n\nWe use industry-standard risk assessment methods to quantify the likelihood of tree failure and the potential consequences of that failure. Our detailed report will provide you with a clear understanding of the risks associated with your trees and recommend specific actions to reduce those risks, such as pruning, cabling, or removal. A proactive approach to tree risk management can help you avoid costly repairs, prevent injuries, and protect the value of your property.\n\nWhether you are a homeowner, property manager, or business owner, our tree risk assessment services can provide you with the information you need to make informed decisions about your tree care.",
+        "process": [
+          "Step 1: Visual inspection of the tree and its surrounding environment.",
+          "Step 2: Assessment of tree health, structure, and potential defects.",
+          "Step 3: Risk rating based on industry-standard methods.",
+          "Step 4: Detailed report with recommendations for mitigating risks."
+        ],
+        "benefits": [
+          "Identified potential hazards",
+          "Reduced risk of property damage",
+          "Ensured safety",
+          "Informed decision-making"
+        ],
+        "faq": [
+          {
+            "question": "Why is tree risk assessment important?",
+            "answer": "Tree risk assessment helps you identify potential hazards before they cause damage or injury. It allows you to take proactive steps to mitigate those risks and protect your property."
+          },
+          {
+            "question": "How often should I have my trees assessed?",
+            "answer": "It's recommended to have your trees assessed every 1-3 years, depending on their age, species, and condition. Trees that are located near high-traffic areas or valuable structures should be assessed more frequently."
+          },
+          {
+            "question": "What are some common tree hazards?",
+            "answer": "Common tree hazards include dead or dying branches, structural defects, root rot, and leaning trees."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "San Francisco",
+        "slug": "san-francisco-ca",
+        "state": "CA",
+        "content": "The Small World Tree Company is proud to offer comprehensive tree services to the residents and businesses of San Francisco. From the iconic Golden Gate Park to the vibrant neighborhoods of North Beach and the Mission District, we understand the unique needs of San Francisco's urban forest. Our team of certified arborists is equipped to handle any tree care challenge, ensuring the health, safety, and beauty of your trees.\n\nWe offer a full spectrum of services, including tree trimming, pruning, removal, stump grinding, and emergency tree care. Whether you need assistance with a hazardous tree threatening your property or simply want to enhance the aesthetic appeal of your landscape, The Small World Tree Company is here to help. We are committed to providing exceptional service and exceeding your expectations.",
+        "localContext": "San Francisco's diverse microclimates and strict regulations require specialized tree care knowledge and experience. The Small World Tree Company is familiar with local ordinances and committed to sustainable practices.",
+        "nearbyAreas": [
+          "Oakland",
+          "Berkeley",
+          "Daly City"
+        ]
+      },
+      {
+        "city": "Oakland",
+        "slug": "oakland-ca",
+        "state": "CA",
+        "content": "The Small World Tree Company extends its expert tree care services to the vibrant city of Oakland. With its diverse neighborhoods, including Rockridge, Grand Lake, and Jack London Square, Oakland presents a unique blend of residential and commercial landscapes. We are dedicated to providing top-quality tree services to Oakland residents and businesses alike.\n\nOur services in Oakland encompass everything from routine tree maintenance to complex tree removals. We prioritize safety and environmental responsibility in all our operations. Whether you require tree trimming, pruning, disease diagnosis, or emergency tree care, our team of certified arborists is ready to serve you.",
+        "localContext": "Oakland's urban environment and varying tree species require a tailored approach to tree care. The Small World Tree Company possesses the expertise to address the specific needs of Oakland's trees.",
+        "nearbyAreas": [
+          "Berkeley",
+          "Alameda",
+          "San Leandro"
+        ]
+      },
+      {
+        "city": "Berkeley",
+        "slug": "berkeley-ca",
+        "state": "CA",
+        "content": "The Small World Tree Company is pleased to provide professional tree care services to the community of Berkeley. Known for its commitment to sustainability and its beautiful residential areas, Berkeley presents unique opportunities for responsible tree management. We are dedicated to preserving the health and vitality of Berkeley's urban forest.\n\nOur services in Berkeley include tree pruning, tree removal, stump grinding, and comprehensive tree health assessments. We are committed to using environmentally sound practices and adhering to all local regulations. Whether you are a homeowner, business owner, or property manager, we are here to assist you with all your tree care needs.",
+        "localContext": "Berkeley's environmentally conscious community appreciates responsible and sustainable tree care practices. The Small World Tree Company is committed to providing environmentally friendly services.",
+        "nearbyAreas": [
+          "Oakland",
+          "Albany",
+          "El Cerrito"
+        ]
+      },
+      {
+        "city": "Daly City",
+        "slug": "daly-city-ca",
+        "state": "CA",
+        "content": "The Small World Tree Company proudly serves the tree care needs of Daly City residents and businesses. As a vital part of the San Francisco Bay Area, Daly City presents a mix of residential and commercial properties, each with its unique tree care requirements. We are committed to providing reliable and affordable tree services to the Daly City community.\n\nOur comprehensive services include tree trimming, pruning, removal, stump grinding, and emergency tree care. We prioritize safety and customer satisfaction in every project we undertake. Whether you need assistance with a hazardous tree or simply want to maintain the health and beauty of your landscape, The Small World Tree Company is here to help.",
+        "localContext": "Daly City's coastal climate and proximity to San Francisco influence its tree species and tree care needs. The Small World Tree Company understands the specific challenges of this area.",
+        "nearbyAreas": [
+          "San Francisco",
+          "South San Francisco",
+          "Pacifica"
+        ]
+      },
+      {
+        "city": "San Mateo",
+        "slug": "san-mateo-ca",
+        "state": "CA",
+        "content": "The Small World Tree Company is dedicated to providing expert tree care services to the residents and businesses of San Mateo. With its beautiful parks, tree-lined streets, and diverse neighborhoods, San Mateo is a city that values its urban forest. We are committed to helping San Mateo maintain its natural beauty.\n\nOur services in San Mateo include tree trimming, pruning, removal, stump grinding, and comprehensive tree health assessments. We use state-of-the-art equipment and techniques to ensure the safety and efficiency of our operations. Whether you need routine tree maintenance or emergency tree care, The Small World Tree Company is here to serve you.",
+        "localContext": "San Mateo's commitment to sustainability and urban forestry requires responsible tree care practices. The Small World Tree Company is dedicated to providing environmentally friendly services.",
+        "nearbyAreas": [
+          "Burlingame",
+          "Foster City",
+          "Redwood City"
+        ]
+      },
+      {
+        "city": "Redwood City",
+        "slug": "redwood-city-ca",
+        "state": "CA",
+        "content": "The Small World Tree Company is proud to offer professional tree care services to the Redwood City community. As a thriving city on the Peninsula, Redwood City features a mix of residential, commercial, and industrial landscapes. We are committed to providing reliable and affordable tree services to meet the diverse needs of Redwood City residents and businesses.\n\nOur services in Redwood City include tree trimming, pruning, removal, stump grinding, and emergency tree care. We prioritize safety and customer satisfaction in every project we undertake. Whether you need assistance with a hazardous tree or simply want to maintain the health and beauty of your landscape, The Small World Tree Company is here to help.",
+        "localContext": "Redwood City's diverse tree species and urban environment require specialized tree care knowledge and experience. The Small World Tree Company is familiar with local regulations and committed to sustainable practices.",
+        "nearbyAreas": [
+          "San Carlos",
+          "Menlo Park",
+          "Atherton"
+        ]
+      },
+      {
+        "city": "South San Francisco",
+        "slug": "south-san-francisco-ca",
+        "state": "CA",
+        "content": "The Small World Tree Company is committed to providing top-quality tree care services to the residents and businesses of South San Francisco. As a bustling city with a mix of residential and industrial areas, South San Francisco presents unique challenges and opportunities for tree management. We are dedicated to ensuring the health, safety, and beauty of South San Francisco's trees.\n\nOur services in South San Francisco include tree trimming, pruning, removal, stump grinding, and comprehensive tree health assessments. We use state-of-the-art equipment and techniques to ensure the safety and efficiency of our operations. Whether you need routine tree maintenance or emergency tree care, The Small World Tree Company is here to serve you.",
+        "localContext": "South San Francisco's location and climate influence its tree species and tree care needs. The Small World Tree Company understands the specific challenges of this area and can provide tailored solutions.",
+        "nearbyAreas": [
+          "Daly City",
+          "San Bruno",
+          "Millbrae"
+        ]
+      },
+      {
+        "city": "Pacifica",
+        "slug": "pacifica-ca",
+        "state": "CA",
+        "content": "The Small World Tree Company is pleased to offer its professional tree care services to the community of Pacifica. Nestled along the coast, Pacifica presents a unique environment that demands specialized tree care. We are dedicated to ensuring the health and safety of the trees in this beautiful coastal city.\n\nOur services in Pacifica include tree trimming, removal, stump grinding, and emergency tree care. We are committed to using environmentally sound practices and adhering to all local regulations. Whether you are a homeowner or a business owner, we are here to assist you with all your tree care needs.",
+        "localContext": "Pacifica's coastal climate and unique soil conditions require specialized tree care knowledge. The Small World Tree Company is experienced in addressing the specific needs of trees in this coastal environment.",
+        "nearbyAreas": [
+          "Daly City",
+          "Montara",
+          "Half Moon Bay"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Maria S.",
+        "rating": 5,
+        "service": "Tree Pruning",
+        "text": "The Small World Tree Company did an amazing job pruning our overgrown oak tree. The crew was professional, efficient, and clearly knowledgeable. They thinned out the canopy beautifully, improving the sunlight in our backyard. I highly recommend them!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "David K.",
+        "rating": 4,
+        "service": "Tree Removal",
+        "text": "We had a large eucalyptus tree that was dying and needed to be removed. The Small World Tree Company provided a competitive quote and completed the job safely and efficiently. The team was careful to protect our property and cleaned up thoroughly afterward. My only suggestion is better communication leading up to the removal date.",
+        "date": "2024-11-20"
+      },
+      {
+        "name": "Jennifer L.",
+        "rating": 5,
+        "service": "Stump Grinding",
+        "text": "After having a tree removed, we were left with an unsightly stump in our front yard. The Small World Tree Company came out and ground the stump quickly and efficiently. You can't even tell a tree was ever there! Great service and reasonable prices.",
+        "date": "2025-01-08"
+      },
+      {
+        "name": "Robert M.",
+        "rating": 5,
+        "service": "Emergency Tree Service",
+        "text": "During a recent storm, a large branch fell from our neighbor's tree and landed in our yard, partially blocking our driveway. The Small World Tree Company responded quickly to our call and removed the branch safely and efficiently. Their prompt service prevented further damage and gave us peace of mind.",
+        "date": "2024-12-28"
+      },
+      {
+        "name": "Susan P.",
+        "rating": 4,
+        "service": "Tree Planting",
+        "text": "We hired The Small World Tree Company to plant a new Japanese maple in our backyard. They helped us choose the perfect location and planted the tree with care. The tree is thriving, and we couldn't be happier with the results. We will definitely use them again for our future tree care needs.",
+        "date": "2025-02-10"
+      },
+      {
+        "name": "Michael B.",
+        "rating": 5,
+        "service": "Tree Risk Assessment",
+        "text": "I was concerned about the health of a large oak tree in my backyard, so I hired The Small World Tree Company to perform a tree risk assessment. The arborist was thorough and knowledgeable, identifying several potential hazards that I was unaware of. I appreciated their recommendations for mitigating those risks and will be implementing them soon.",
+        "date": "2024-10-05"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "SF Tree Service | Small World Tree Co",
+        "description": "Expert tree pruning, removal, & planting in San Francisco. Certified arborists ensuring healthy & safe trees. Free estimates!"
+      },
+      "about": {
+        "title": "About Us | Small World Tree Company",
+        "description": "Learn about The Small World Tree Company. Dedicated to providing exceptional tree care in San Francisco and fostering a love for the urban forest."
+      },
+      "services": {
+        "title": "Tree Services | Small World Tree Co",
+        "description": "Full range of tree care services in San Francisco: pruning, removal, stump grinding, planting, emergency service & risk assessment."
+      },
+      "contact": {
+        "title": "Contact Us | Small World Tree Co",
+        "description": "Contact The Small World Tree Company for expert tree care in San Francisco. Get a free estimate for pruning, removal, and more."
+      },
+      "reviews": {
+        "title": "Reviews | Small World Tree Company",
+        "description": "Read reviews from satisfied customers of The Small World Tree Company in San Francisco. See what our clients say about our expert tree services."
+      },
+      "service-areas": {
+        "title": "Service Areas | Small World Tree Co",
+        "description": "The Small World Tree Company provides tree services to San Francisco and surrounding Bay Area communities. Check our service area map."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "tree-pruning": "/images/service-tree-pruning.webp",
+      "tree-removal": "/images/service-tree-removal.webp",
+      "stump-grinding": "/images/service-stump-grinding.webp",
+      "tree-planting": "/images/service-tree-planting.webp",
+      "emergency-tree-service": "/images/service-emergency-tree-service.webp",
+      "tree-risk-assessment": "/images/service-tree-risk-assessment.webp"
+    },
+    "servicesResponsive": {
+      "tree-pruning": {
+        "src": "/images/service-tree-pruning.webp",
+        "srcset": "/images/service-tree-pruning-400w.webp 400w, /images/service-tree-pruning-800w.webp 800w, /images/service-tree-pruning-1200w.webp 1200w, /images/service-tree-pruning.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "tree-removal": {
+        "src": "/images/service-tree-removal.webp",
+        "srcset": "/images/service-tree-removal-400w.webp 400w, /images/service-tree-removal-800w.webp 800w, /images/service-tree-removal-1200w.webp 1200w, /images/service-tree-removal.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "stump-grinding": {
+        "src": "/images/service-stump-grinding.webp",
+        "srcset": "/images/service-stump-grinding-400w.webp 400w, /images/service-stump-grinding-800w.webp 800w, /images/service-stump-grinding-1200w.webp 1200w, /images/service-stump-grinding.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "tree-planting": {
+        "src": "/images/service-tree-planting.webp",
+        "srcset": "/images/service-tree-planting-400w.webp 400w, /images/service-tree-planting-800w.webp 800w, /images/service-tree-planting-1200w.webp 1200w, /images/service-tree-planting.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "emergency-tree-service": {
+        "src": "/images/service-emergency-tree-service.webp",
+        "srcset": "/images/service-emergency-tree-service-400w.webp 400w, /images/service-emergency-tree-service-800w.webp 800w, /images/service-emergency-tree-service-1200w.webp 1200w, /images/service-emergency-tree-service.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "tree-risk-assessment": {
+        "src": "/images/service-tree-risk-assessment.webp",
+        "srcset": "/images/service-tree-risk-assessment-400w.webp 400w, /images/service-tree-risk-assessment-800w.webp 800w, /images/service-tree-risk-assessment-1200w.webp 1200w, /images/service-tree-risk-assessment.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}

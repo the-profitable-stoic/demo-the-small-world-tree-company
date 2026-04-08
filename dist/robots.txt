@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://demo-the-small-world-tree-company.dream-surge.com/sitemap-index.xml
